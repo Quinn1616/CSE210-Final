@@ -4,7 +4,7 @@
     {
         Product product1 = new Product("Product 1", 123, 10, 1);
         Product product2 = new Product("Product 2", 234, 15, 2);
-        Address address1 = new Address("Street 1", "City 1", "State 1", "USA");
+        Address address1 = new Address("123 Street", "Rexburg", "Idaho", "USA");
         Customer customer1 = new Customer("Customer 1", address1);
 
         Order order1 = new Order(customer1);
@@ -28,7 +28,7 @@
 
         Product product3 = new Product("Product 3", 345, 10, 2);
         Product product4 = new Product("Product 4", 456, 15, 1);
-        Address address2 = new Address("Street 2", "City 2", "State 2", "CAN");
+        Address address2 = new Address("234 Street", "Toronto", "Ontario", "CAN");
         Customer customer2 = new Customer("Customer 2", address2);
 
         Order order2 = new Order(customer2);

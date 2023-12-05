@@ -3,21 +3,21 @@
     static void Main(string[] args)
     {
         //Console.WriteLine("Test");
-        Video video1 = new Video("Title1", "Author1", 30);
-        Video video2 = new Video("Title2", "Author2", 15);
-        Video video3 = new Video("Title3", "Author3", 45);
+        Video video1 = new Video("Video Title 1", "Author 1", 30);
+        Video video2 = new Video("Video Title 2", "Author 2", 15);
+        Video video3 = new Video("Video Title 3", "Author 3", 45);
 
-        video1.AddComment("Username1", "Comment 1");
-        video1.AddComment("Username2", "Comment 2");
-        video1.AddComment("Username3", "Comment 3");
+        video1.AddComment("Username 1", "Comment 1");
+        video1.AddComment("Username 2", "Comment 2");
+        video1.AddComment("Username 3", "Comment 3");
 
-        video2.AddComment("Username1", "Comment 1");
-        video2.AddComment("Username2", "Comment 2");
-        video2.AddComment("Username3", "Comment 3");
+        video2.AddComment("Username 1", "Comment 1");
+        video2.AddComment("Username 2", "Comment 2");
+        video2.AddComment("Username 3", "Comment 3");
 
-        video3.AddComment("Username1", "Comment 1");
-        video3.AddComment("Username2", "Comment 2");
-        video3.AddComment("Username3", "Comment 3");
+        video3.AddComment("Username 1", "Comment 1");
+        video3.AddComment("Username 2", "Comment 2");
+        video3.AddComment("Username 3", "Comment 3");
 
         List<Video> videos = new List<Video> 
         { 

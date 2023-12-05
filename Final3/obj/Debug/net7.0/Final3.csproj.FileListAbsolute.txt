@@ -1,0 +1,15 @@
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\bin\Debug\net7.0\Final3.exe
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\bin\Debug\net7.0\Final3.deps.json
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\bin\Debug\net7.0\Final3.runtimeconfig.json
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\bin\Debug\net7.0\Final3.dll
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\bin\Debug\net7.0\Final3.pdb
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.csproj.AssemblyReference.cache
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.AssemblyInfoInputs.cache
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.AssemblyInfo.cs
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.dll
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\refint\Final3.dll
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.pdb
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\Final3.genruntimeconfig.cache
+C:\Users\Quinn\OneDrive - BYU-Idaho\Current Semester\Programming with Classes (CSE 210)\cse210 Final\Final3\obj\Debug\net7.0\ref\Final3.dll
